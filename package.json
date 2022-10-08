@@ -1,0 +1,13 @@
+{
+  "name": "express_realworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mongoose": "^6.6.5",
+    "morgan": "^1.10.0"
+  }
+}
